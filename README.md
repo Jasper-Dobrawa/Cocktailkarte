@@ -1,6 +1,7 @@
 # Cocktailkarte
 
-# <span style="color: green> Apricot Fizz
+<span style="color: red>
+# Apricot Fizz
 Apricot Brandy, Orangen,- Zitronensaft, Soda
 # Aruba Beach
 weißer Rum, Triple Sec, Ananassaft
