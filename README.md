@@ -2,7 +2,7 @@
 
 # Apricot Fizz 
 
-<span style="color: red;">#Apricot Fizz</span>
+<span style="color:#3498db;">#Apricot Fizz</span>
 
 Apricot Brandy, Orangen,- Zitronensaft, Soda
 # Aruba Beach
