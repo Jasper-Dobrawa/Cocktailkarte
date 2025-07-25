@@ -12,118 +12,118 @@ weißer Rum, Kokoslikör, Kirschlikör, Ananas,- Orangen,- Zitronensaft,     Gre
 Vodka, Blue Curaçao, Maracuja,- Orangen,- Zitronensaft
 ##  Banana Daiquiri
 weißer Rum, Bananenlikör, Zitronensaft, Zuckerlikör
-## Batida de Banana%% 
+## Batida de Banana
 Cachaca, Bananenlikör, Ananas,- Zitronensaft, Zuckersirup
-## Brasilian Sunrise%%
+## Brasilian Sunrise
 Cachaca, Orangen,- Zitronensaft, Grenadine
-## Carribean Colada%%
+## Carribean Colada
 brauner Rum, Kokoslikör, Maracuja,- Orangensaft
 ## Cocoskiss
 brauner Rum, Kokoslikör, Maracuja,- Orangensaft
-## Doris Day´s%%
+## Doris Day´s
 weißer Rum, Triple Sec, Maracuja,- Ananas,- Orangen,- Limettensaft
-## Down the Stretch%%
+## Down the Stretch
 Vodka, Blue Curaçao, Zitronensaft, Grenadine
-## Dreamsicle%%
+## Dreamsicle
 Likör 43, Milch, Orangensaft
-## El President%%
+## El President
 weißer Rum, Triple Sec, Grenadine
-## Fiesta%%
+## Fiesta
 Vodka, Pfirsichlikör, Blue Curaçao, Maracujasaft
-## Finnish Virgin%%
+## Finnish Virgin
 Vodka, Blue Curaçao, Orangensaft, Limettensaft
-## Fire on Ice%%
+## Fire on Ice
 brauner Rum, Triple Sec, Orangen,- Zitronensaft, Grenadine
-## Green Day%%
+## Green Day
 Vodka, Likör 43, Blue Curaçao, Orangen,- Ananas,- Zitronensaft, Rohrzucker
-## Green Wonder%%
+## Green Wonder
 Apricot Brandy, Blue Curaçao, Orangen,- Maracuja,- Limettensaft
-## Golden Copacaban%%
+## Golden Copacaban
 Cachaca, Kokoslikör, Bananen,- Maracujasaft
-## %%green%% Golden Smile%%
+## Golden Smile
 Vodka, Likör 43, Ananas,- Orangen,- Zitronensaft
-## %green% Happy Rabbit%%
+## Happy Rabbit
 Vodka, Lycheelikör, Blue Curaçao, Pfirsichlikör, Ananas,- Orangen,- Zitronensaft
-## %green% Hot Legs%%
+## Hot Legs
 weißer und brauner Rum, Kokoslikör, Blue Curaçao, Ananas,- Zitronensaft
-## %green% Hurricane%%
+## Hurricane
 weißer und brauner Rum, Orangen,- Ananas,- Limetten,- Zitronensaft
-## %green% Inflagranti%%
+## Inflagranti
 Vodka, Likör 43, Pfirsichlikör, Ananas,- Limettensaft
-## %green% Island of Passion%%
+## Island of Passion
 weißer Rum, Kokoslikör, Maracujalikör, Orangen,- Ananassaft
-## %green% Kermit%%
+## Kermit
 Pfirsichlikör, Blue Curaçao, Orangen,- Limetten,- Zitronensaft
-## %green% King Mildas%%
+## %green% King Mildas
 Tequila, Triple Sec, Bananenlikör, Orangen,- Bananen,- Ananassaft
-## %green% Kingston%%
+## Kingston
 Apricot Brandy, Kokoslikör, Maracujasaft, Grenadine, Sahne
-## %green% Kwai-Feh%%
+## Kwai-Feh
 Vodka, Lycheelikör, Limettensaft, Soda
-## %green% Lady´s Favourite%%
+## Lady´s Favourite
 Apricot Brandy, Sahne
-## %green% Latin Lover%%
+## Latin Lover
 Tequila, Cachaca, Limetten,- Ananas,- Zitronensaft
-## %green% Lemon Drop%%
+## Lemon Drop
 Vodka, Triple Sec, Zitronensaft, Zuckersirup
-## %green% Lifestyle Hawaii%%
+## Lifestyle Hawaii
 weißer Rum, Kokoslikör, Blue Curaçao
-## %green% Margarita%%
+## Margarita
 Tequila, Triple Sec, Limettensaft, Salz
-## %green% Midori Sour%%
+## Midori Sour
 Melonenlikör, Limetten,- Zitronensaft, Soda
-## %green% Melon ball%%
+## Melon ball
 Vodka, Melonenlikör, Ananassaft
-## %green% Melon Colada%%
+## Melon Colada
 weißer Rum, Melonenlikör, Kokoslikör, Ananassaft, Sahne
-## %green% Melonman%%
+## Melonman
 Vodka, Melonenlikör, Orangen,- Zitronensaft, Grenadine
-## %green% Melon Love%%
+## Melon Love
 Vodka, weißer Rum, Melonenlikör, Ananas,- Zitronensaft
-## %green% Mojito%%
+## Mojito
 weißer Rum, Limettensaft, Rohrzucker, Soda, Minze
-## %green% Mongolian%%
+## Mongolian
 Vodka, Lycheelikör, Melonenlikör, Limetten, Ginger Beer, Minze
-## %green% Oceanwater%%
+## Oceanwater
 Kokoslikör, Blue Curaçao, Ginger Ale
-## %green% Oversea Fusion%%
+## Oversea Fusion
 Vodka, Kokoslikör, Ananassaft
-## %green% Pan´s Labyrinth%%
+## Pan´s Labyrinth
 Vodka, Lycheelikör, Blue Curaçao, Ananassaft, Zitronensaft
-## %green% Passoã Carribean%%
+## Passoã Carribean
 weißer Rum, Maracujalikör, Ananassaft
-## %green% Planter´s Punch%%
+## Planter´s Punch
 weißer und brauner Rum, Orangen,- Maracuja,- Ananas,- Zitronensaft, Grenadine, Zuckersirup
-## %green% Red Lover%%
+## Red Lover
 Vodka, Kirschlikör, Ananas,- Zitronensaft, Grenadine
-## %green% Revolution%%
+## Revolution
 Vodka, Triple Sec, Maracujalikör, Blue Curaçao, Ananassaft
-## %green% Rio Fever%%
+## Rio Fever
 Cachaca, Kokoslikör, Bananensaft
-## %green% Santa Domingo%%
+## Santa Domingo
 brauner Rum, Blue Curaçao, Orangen,- Maracujasaft
-## %green% Spanish Eyes%%
+## Spanish Eyes
 Likör 43, Apricot Brandy, Ananas,- Maracujasaft, Sahne
-## %green% Sueño Secreto%%
+## Sueño Secreto
 Likör 43, Orangen,- Maracujasaft, Sahne
-## %green% Sweet Harmonie%%
+## Sweet Harmonie
 Likör 43, Maracujalikör, Maracujasaft, Milch
-## %green% Tequila Mule%%
+## Tequila Mule
 Tequila, Zitronensaft, Ginger Beer, Minze
-## %green% Tequila Pink%%
+## Tequila Pink
 Tequila, brauner Rum, Triple Sec, Orangen,- Zitronensaft, Grenadine
-## %green% Tequila Sunrise%%
+## Tequila Sunrise
 Tequila, Orangen,- Zitronensaft, Grenadine
-## %green% Touchdown%%
+## Touchdown
 Vodka, Apricot Brandy, Maracuja,- Zitronensaft, Grenadine
-## %green% Tropicana%%
+## Tropicana
 Cachaca, Blue Curaçao, Bananenlikör, Orangen,- Maracujasaft, Grenadine
-## %green% Vodka Sour%%
+## Vodka Sour
 Vodka, Tequila, Orangensaft, Grenadine
-## %green% Voodoo%%
+## Voodoo
 brauner Rum, Kirschlikör, Orangensaft, Grenadine
-## %green% Zombie%%
+##Zombie
 weißer und brauner Rum, Apricot Brandy, Orangen,- Ananas,- Zitronensaft, Grenadine
-## %green% 43	Sour%%
+## 43	Sour
 Likör 43, Orangen,- Zitronensaft, Zuckersirup
 
