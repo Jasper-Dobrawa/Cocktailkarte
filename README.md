@@ -1,46 +1,46 @@
 ##  Cocktailkarte 
 
-##  %green% Apricot Fizz%% 							
+## Apricot Fizz							
 Apricot Brandy, Orangen,- Zitronensaft, Soda
-##  %green% Aruba Beach%% 
+##  Aruba Beach
 weißer Rum, Triple Sec, Ananassaft
-##  %green% Baboa Cha Cha%% 
+##  Baboa Cha Cha
 Vodka, Kokoslikör, Ananassaft, Sahne
-##  %green% Bahama Mama%% 
+##  Bahama Mama
 weißer Rum, Kokoslikör, Kirschlikör, Ananas,- Orangen,- Zitronensaft,     Grenadine
-##  %green% Baltic%% 
+##  Baltic
 Vodka, Blue Curaçao, Maracuja,- Orangen,- Zitronensaft
-##  %green% Banana Daiquiri%% 
+##  Banana Daiquiri
 weißer Rum, Bananenlikör, Zitronensaft, Zuckerlikör
-## %green% Batida de Banana%% 
+## Batida de Banana%% 
 Cachaca, Bananenlikör, Ananas,- Zitronensaft, Zuckersirup
-## %green% Brasilian Sunrise%%
+## Brasilian Sunrise%%
 Cachaca, Orangen,- Zitronensaft, Grenadine
-## %green% Carribean Colada%%
+## Carribean Colada%%
 brauner Rum, Kokoslikör, Maracuja,- Orangensaft
-## %green%Cocoskiss%%
+## Cocoskiss
 brauner Rum, Kokoslikör, Maracuja,- Orangensaft
-## %green% Doris Day´s%%
+## Doris Day´s%%
 weißer Rum, Triple Sec, Maracuja,- Ananas,- Orangen,- Limettensaft
-## %green% Down the Stretch%%
+## Down the Stretch%%
 Vodka, Blue Curaçao, Zitronensaft, Grenadine
-## %green% Dreamsicle%%
+## Dreamsicle%%
 Likör 43, Milch, Orangensaft
-## %green% El President%%
+## El President%%
 weißer Rum, Triple Sec, Grenadine
-## %green% Fiesta%%
+## Fiesta%%
 Vodka, Pfirsichlikör, Blue Curaçao, Maracujasaft
-## %green% Finnish Virgin%%
+## Finnish Virgin%%
 Vodka, Blue Curaçao, Orangensaft, Limettensaft
-## %green% Fire on Ice%%
+## Fire on Ice%%
 brauner Rum, Triple Sec, Orangen,- Zitronensaft, Grenadine
-## %green% Green Day%%
+## Green Day%%
 Vodka, Likör 43, Blue Curaçao, Orangen,- Ananas,- Zitronensaft, Rohrzucker
-## %green% Green Wonder%%
+## Green Wonder%%
 Apricot Brandy, Blue Curaçao, Orangen,- Maracuja,- Limettensaft
-## %green% Golden Copacaban%%
+## Golden Copacaban%%
 Cachaca, Kokoslikör, Bananen,- Maracujasaft
-## %green% Golden Smile%%
+## %%green%% Golden Smile%%
 Vodka, Likör 43, Ananas,- Orangen,- Zitronensaft
 ## %green% Happy Rabbit%%
 Vodka, Lycheelikör, Blue Curaçao, Pfirsichlikör, Ananas,- Orangen,- Zitronensaft
