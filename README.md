@@ -1,16 +1,16 @@
 # Cocktailkarte
 
-Apricot Fizz
+# Apricot Fizz
 Apricot Brandy, Orangen,- Zitronensaft, Soda
-Aruba Beach
+# Aruba Beach
 weißer Rum, Triple Sec, Ananassaft
-Baboa Cha Cha
+# Baboa Cha Cha
 Vodka, Kokoslikör, Ananassaft, Sahne
-Bahama Mama
+# Bahama Mama
 weißer Rum, Kokoslikör, Kirschlikör, Ananas,- Orangen,- Zitronensaft,     Grenadine
-Baltic
+# Baltic
 Vodka, Blue Curaçao, Maracuja,- Orangen,- Zitronensaft
-Banana Daiquiri
+# Banana Daiquiri
 weißer Rum, Bananenlikör, Zitronensaft, Zuckerlikör
-Batida de Banana
+# Batida de Banana
 Cachaca, Bananenlikör, Ananas,- Zitronensaft, Zuckersirup
